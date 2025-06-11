@@ -1,0 +1,10 @@
+clip==0.2.0
+matplotlib==3.10.3
+openai==0.28
+opencv_python==4.10.0.84
+Pillow==11.2.1
+protobuf==6.31.1
+Requests==2.32.4
+scenedetect==0.6.6
+torch==2.5.1
+whisper==1.1.10
